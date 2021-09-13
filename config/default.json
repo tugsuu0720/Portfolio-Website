@@ -1,0 +1,6 @@
+{
+    "mongoURI": "mongodb+srv://tugsuu0720:AXHdCwN4ETRh6E8k@anthelion.pffmg.mongodb.net/myFirstDatabase?retryWrites=true&w=majority",
+    "jwtSecret": "secrettoken",
+    "githubClientId": "4311835b264e6a2bb172",
+    "githubSecret": "380bdaeaa99cf39447e71547f7bfad63cd9bb759"
+}
